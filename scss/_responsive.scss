@@ -1,13 +1,12 @@
 /*Sección Responsive*/
 
-@media (max-width:450px) {
+@media (min-width:450px) {
     .menu {
         position: static;
         width: auto;
         height: auto;
         transform: translateX(0%);
         float: right;
-        display: flex;
     }
 
     .menu a {

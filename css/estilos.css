@@ -361,7 +361,7 @@ textarea {
     border: none;
   }
   .contenedor {
-    width: 1000px;
+    width: 100%;
   }
   .card {
     width: auto;
